@@ -1,0 +1,49 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "Random Quote Generator",
+            "description": "FILL",
+            "technologies": ["CSS", "HTML", "JavaScript"],
+            "live_link": "https://kristensilva.github.io/unit1-random_quote_generator-v1/",
+            "github_link": "https://github.com/kristenSilva/unit1-random_quote_generator-v1",
+            "image_urls": ["./img/"]
+        },
+        {
+            "id": 1,
+            "project_name": "Data Pagination and Filtering",
+            "description": "FILL",
+            "technologies": ["CSS", "HTML", "JavaScript"],
+            "live_link": "https://kristensilva.github.io/unit2-data_pagination_and_filtering-v1/",
+            "github_link": "https://github.com/kristenSilva/unit2-data_pagination_and_filtering-v1",
+            "image_urls": ["./img/"]
+        },
+        {
+            "id": 2,
+            "project_name": "Interactive Form",
+            "description": "FILL",
+            "technologies": ["CSS", "HTML", "JavaScript"],
+            "live_link": "https://kristensilva.github.io/unit3-interactive_form-v3/",
+            "github_link": "https://github.com/kristenSilva/unit3-interactive_form-v3",
+            "image_urls": ["./img/"]
+        },
+        {
+            "id": 3,
+            "project_name": "OOP Game Show App",
+            "description": "FILL",
+            "technologies": ["CSS", "HTML", "JavaScript"],
+            "live_link": "https://kristensilva.github.io/unit4-oop_game-v2/",
+            "github_link": "https://github.com/kristenSilva/unit4-oop_game-v2",
+            "image_urls": ["./img/phrase-hunter-main.png", "./img/phrase-hunter-1.png", "./img/phrase-hunter-2.png"]
+        },
+        {
+            "id": 4,
+            "project_name": "Public API Requests",
+            "description": "FILL",
+            "technologies": ["CSS", "HTML", "JavaScript"],
+            "live_link": "https://kristensilva.github.io/unit5-project-public_api_request-v1/",
+            "github_link": "https://github.com/kristenSilva/unit5-project-public_api_request-v1",
+            "image_urls": ["./img/"]
+        }
+    ]
+}
