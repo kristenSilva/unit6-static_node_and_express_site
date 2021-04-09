@@ -5,8 +5,8 @@ const router = express.Router();
 const { projects } = require('../data.json');
 
 router.get('/', (req, res) => {
-    console.log('index.js working');
-    res.render('index');
+    //console.log('index.js working');
+    res.render('index', {projects});
 });
 
 module.exports = router;

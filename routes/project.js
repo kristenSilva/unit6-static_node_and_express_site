@@ -5,9 +5,9 @@ const router = express.Router();
 const { projects } = require('../data.json');
 
 router.get('/projects/:id', (req, res) => {
-    const { id } = req.params;
-    const data = {id, projects};
-    res.render('project', data);
+    const projectId = req.params.id;
+    const project = projects.find(({ id }) => id === +projectId);
+    res.render('project', {project});
 });
 
 module.exports = router;
