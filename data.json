@@ -7,7 +7,7 @@
             "technologies": ["CSS", "HTML", "JavaScript"],
             "live_link": "https://kristensilva.github.io/unit1-random_quote_generator-v1/",
             "github_link": "https://github.com/kristenSilva/unit1-random_quote_generator-v1",
-            "image_urls": ["./img/"]
+            "image_urls": ["/static/img/proj0-main.png", "/static/img/proj0-1.png", "/static/img/proj0-2.png"]
         },
         {
             "id": 1,
@@ -16,7 +16,7 @@
             "technologies": ["CSS", "HTML", "JavaScript"],
             "live_link": "https://kristensilva.github.io/unit2-data_pagination_and_filtering-v1/",
             "github_link": "https://github.com/kristenSilva/unit2-data_pagination_and_filtering-v1",
-            "image_urls": ["./img/"]
+            "image_urls": ["/static/img/proj1-main.png", "/static/img/proj1-1.png", "/static/img/proj1-2.png"]
         },
         {
             "id": 2,
@@ -25,7 +25,7 @@
             "technologies": ["CSS", "HTML", "JavaScript"],
             "live_link": "https://kristensilva.github.io/unit3-interactive_form-v3/",
             "github_link": "https://github.com/kristenSilva/unit3-interactive_form-v3",
-            "image_urls": ["./img/"]
+            "image_urls": ["/static/img/proj2-main.png", "/static/img/proj2-1.png", "/static/img/proj2-2.png"]
         },
         {
             "id": 3,
@@ -34,7 +34,7 @@
             "technologies": ["CSS", "HTML", "JavaScript"],
             "live_link": "https://kristensilva.github.io/unit4-oop_game-v2/",
             "github_link": "https://github.com/kristenSilva/unit4-oop_game-v2",
-            "image_urls": ["/static/img/phrase-hunter-main.png", "/static/img/phrase-hunter-1.png", "/static/img/phrase-hunter-2.png"]
+            "image_urls": ["/static/img/proj3-main.png", "/static/img/proj3-1.png", "/static/img/proj3-2.png"]
         },
         {
             "id": 4,
@@ -43,7 +43,7 @@
             "technologies": ["CSS", "HTML", "JavaScript"],
             "live_link": "https://kristensilva.github.io/unit5-project-public_api_request-v1/",
             "github_link": "https://github.com/kristenSilva/unit5-project-public_api_request-v1",
-            "image_urls": ["./img/"]
+            "image_urls": ["/static/img/proj4-main.png", "/static/img/proj4-1.png", "/static/img/proj4-2.png"]
         }
     ]
 }

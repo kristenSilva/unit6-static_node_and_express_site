@@ -20,7 +20,14 @@ app.use(aboutRoute);
 const projectRoute= require('./routes/project.js');
 app.use(projectRoute);
 
+//Import module for error handlers
+const errors = require('./errorHandlers.js');
+
+//404 and Global Error Handlers
+app.use(errors.doesNotExistError);
+app.use(errors.globalError);
+
 // Turn on Express server
 app.listen(3000, () => {
     console.log('Server listening on port 3000');
-  })
+});
