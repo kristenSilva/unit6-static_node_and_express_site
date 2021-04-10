@@ -1,0 +1,12 @@
+extends layout.pug
+
+block content
+    .box
+        h1 Server Error
+        h3= `Error status code: ${err.status} - Server Error`
+        p= `${err.message}`
+
+    nav.nav
+        a(href='/')
+            span &larr;
+            |  Home
