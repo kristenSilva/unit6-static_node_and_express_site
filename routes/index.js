@@ -5,11 +5,11 @@ const router = express.Router();
 const { projects } = require('../data.json');
 
 router.get('/', (req, res) => {
-    //console.log('index.js working');
     res.render('index', {projects});
 });
 
 //GET generated error route - create and throw 500 server error
+//Modeled after Treehouse Error Handling in Express Practice
 router.get('/error', (req, res, next) => {
 
     // Log out custom error handler indication
