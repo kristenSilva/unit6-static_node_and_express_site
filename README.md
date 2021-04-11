@@ -23,9 +23,10 @@ Node.js and Express used to:
 **Minor style changes embedded within pre-existing lines
 1. Font changes
     *Font-family for `h1, h2, h3, h4, h5, p` changed to "Gill Sans", sans-serif on line 35 of `style.css`
-    *`.sidecar p` font-size changed to 19px
-    *`.portfolio-intro p` font-size changed to 135%
-    *`.project-info-box p` font-size changed to 20px
+    *`.sidebar p` font-size changed to 19px on line 170
+    *`.portfolio-intro p` font-size changed to 135% on line 239
+    *`.project-info-box p` font-size changed to 135% on line 271
+    *`.about-bio p` font-size changed to 20px on line 275
 
 Other additions
 1. Target attribute set to `_blank` on all links that lead to path outside of portfolio: Github repo, Live demo, social media links
